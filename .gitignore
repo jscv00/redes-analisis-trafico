@@ -1,0 +1,9 @@
+# Ignorar entornos virtuales
+.venv/
+
+# Ignorar archivos del sistema de macOS
+.DS_Store
+
+# Archivos de Jupyter o Python temporales
+__pycache__/
+*.pyc
